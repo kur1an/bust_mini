@@ -1,0 +1,18 @@
+{
+
+  "dependencies": {
+
+    "express": "^4.19.2",
+
+    "google-auth-library": "^9.9.0",
+
+    "mongoose": "^8.3.3",
+
+    "nodemon": "^3.1.0",
+
+    "server": "^1.0.39"
+
+  }
+
+}
+
